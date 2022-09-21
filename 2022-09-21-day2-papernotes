@@ -32,15 +32,14 @@ The fraction of genome with a copy number alteration (CNV fraction) varies widel
 ->breast carcinoma shows a consistent CNV profile; the CNV patterns in cervical and col- orectal (carcinoma also correspond with previous observation. similar to T-cell non-Hodgkin lymphoma, myelodysplastic syndrome, and a number of malignant epithelial tumors. LOH profiles were also made -> LOH profile of a cancer genome complements its CNV profile with the information of allelic loss. 
 
 
-[picture]
+[picture1 in repository]
 
 UBERON anatomy ontology: a cross-species anatomical structural ontology system closely aligned with developmental processes. Its relationship structure allows integrative queries linking multiple databases (e.g. Gene Ontology and Protein Ontology) and description logic query within the same organism (linking related organs) and between model animals and humans. 
  
  
- [picture]
+[picture2 in repository]
  
- 
- 
+
  
 Provenances are made by:
 -	Geography: in the meta data, every sample has included geographic point coordinates (approximated or that corresponding to the author of the publication) from the GeoNames database. -> useful for epistemic validation and decision processes 
