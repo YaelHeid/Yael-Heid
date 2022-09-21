@@ -25,7 +25,7 @@ for single_line in data_new:
     log2.append(single_line[4])
     variant_type.append(single_line[5])
     reference_bases.append(single_line[6])
-    alternate_bases.append(single_line[7])
+    alternate_bases.append(single_line[7][:-1])
 
 zip_list=list(zip(biosample_id,reference_name,start, end, log2, variant_type,reference_bases,alternate_bases))
 dataframe = pd.DataFrame(zip_list,columns=['biosample_id','reference_name','start', 'end', 'log2', 'variant_type','reference_bases', 'alternate_bases'])
